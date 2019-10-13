@@ -1,2 +1,2 @@
-# Simple-LookaLike-Facebook
-Simple version of facebook with status post and friend system
+# Copy-Facebook
+This is a copy of the website facebook. This is ONLY made for learning purposes only
